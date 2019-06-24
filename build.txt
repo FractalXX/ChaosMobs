@@ -1,0 +1,4 @@
+author = FractalXX
+version = 0.1
+displayName = Chaos Mobs
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*, .git\*, *.sln, *.git, *.psd
